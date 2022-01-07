@@ -20,7 +20,8 @@
   "homepage": "https://github.com/XanderYZZ/NodeJS-Project#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "sqlite3": "^5.0.2"
   },
   "nodemonConfig": {
     "ignore": [
